@@ -1,0 +1,28 @@
+# Python
+venv/
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Secrets / environment
+.env
+.env.*
+*.pem
+*.key
+
+# Local Claude Code settings (personal permissions, local paths)
+.claude/settings.local.json
+
+# Generated output
+backtests/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

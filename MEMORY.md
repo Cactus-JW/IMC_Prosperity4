@@ -1,0 +1,1 @@
+- [ASH_COATED_OSMIUM Round 1 profile](.claude/agent-memory/data-explorer/ash_coated_osmium.md) — tight mean-reverter around 10000, OU half-life 5-10 ticks, wide 16-tick bot spread, strong MM target
